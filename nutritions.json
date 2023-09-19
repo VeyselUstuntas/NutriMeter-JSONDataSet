@@ -5,7 +5,7 @@
     "karbonhidrat": "Karbonhidrat: 23 gram",
     "protein": "Protein: 1.1 gram",
     "yag": "Yag: 0.3 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/banana.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/banana.png"
   },
   {
     "isim": "Yulaf",
@@ -13,7 +13,7 @@
     "karbonhidrat": "Karbonhidrat: 57.3 gram",
     "protein": "Protein: 11.3 gram",
     "yag": "Yag: 5.8 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/oat.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/oat.png"
   },
   {
     "isim": "Ceviz",
@@ -21,7 +21,7 @@
     "karbonhidrat": "Karbonhidrat: 13.7 gram",
     "protein": "Protein: 15.2 gram",
     "yag": "Yag: 65.2 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/walnut.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/walnut.png"
   },
   {
     "isim": "Kuru Fasulye",
@@ -29,7 +29,7 @@
     "karbonhidrat": "Karbonhidrat: 22 gram",
     "protein": "Protein: 19 gram",
     "yag": "Yag: 6 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/bean.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/bean.png"
   },
   {
     "isim": "Patates",
@@ -37,7 +37,7 @@
     "karbonhidrat": "Karbonhidrat: 17 gram",
     "protein": "Protein: 2 gram",
     "yag": "Yag: 0.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/potato.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/potato.png"
   },
   {
     "isim": "Tavuk Göğüs",
@@ -45,7 +45,7 @@
     "karbonhidrat": "Karbonhidrat: 0 gram",
     "protein": "Protein: 22.5 gram",
     "yag": "Yag: 2.6 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/chicken.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/chicken.png"
   },
   {
     "isim": "Yeşil Mercimek",
@@ -53,7 +53,7 @@
     "karbonhidrat": "Karbonhidrat: 20 gram",
     "protein": "Protein: 9 gram",
     "yag": "Yag: 0.4 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/lentil.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/lentil.png"
   },
   {
     "isim": "Yoğurt",
@@ -61,7 +61,7 @@
     "karbonhidrat": "Karbonhidrat: 4.5 gram",
     "protein": "Protein: 3 gram",
     "yag": "Yag: 3 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/yogurt.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/yogurt.png"
   },
   {
     "isim": "Badem",
@@ -69,7 +69,7 @@
     "karbonhidrat": "Karbonhidrat: 3.7 gram",
     "protein": "Protein: 18.7 gram",
     "yag": "Yag: 54.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/almond.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/almond.png"
   },
   {
     "isim": "Elma",
@@ -77,6 +77,6 @@
     "karbonhidrat": "Karbonhidrat: 12.4 gram",
     "protein": "Protein: 0.2 gram",
     "yag": "Yag: 0.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSON_DataSet/main/apple.png"
+    "gorsel": "https://raw.githubusercontent.com/VeyselUstuntas/NutriMeter-JSONDataSet/main/apple.png"
   }
 ]
